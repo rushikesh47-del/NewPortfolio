@@ -149,7 +149,7 @@ export default function Home() {
       <main>
         <section className="hero section-wrap" id="home">
           <div className="hero-copy">
-            <p className="eyebrow"><span className="eyebrow-line"></span> FrontEnd DEVELOPER · INDIA</p>
+            <p className="eyebrow"><span className="eyebrow-line"></span> FrontEnd DEVELOPER AND UI/UX DESIGNER </p>
             <h1>Good ideas<br />deserve a <em>good</em><br />place to land.</h1>
             <p className="hero-description">
               Hey, I’m <strong>Rushikesh Sakat</strong> — a Frontend developer and UI/UX designer who turns thoughtful ideas
